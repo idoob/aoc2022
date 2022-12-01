@@ -1,4 +1,4 @@
-# aoc2022
+# Advent of Code 2022
 
 My solutions + template for AOC.
 ```ts
