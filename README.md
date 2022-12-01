@@ -2,4 +2,5 @@
 
 My solutions + template for AOC.
 ```ts
-deno run --allow-read --allow-write --watch ./[day]/[a/b].ts```
+deno run --allow-read --allow-write --watch ./[day]/[a/b].ts
+```
